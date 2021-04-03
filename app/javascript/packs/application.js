@@ -4,6 +4,9 @@
 // that code so it'll be compiled.
 
 //= require bootstrap-sprockets
+//= require jquery3
+//= require jquery_ujs
+//= require_tree .
 
 import Rails from "@rails/ujs"
 import Turbolinks from "turbolinks"
